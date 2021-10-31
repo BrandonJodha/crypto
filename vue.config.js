@@ -1,3 +1,5 @@
 module.exports = {
-    publicPath: '/crypto/'
+  transpileDependencies: [
+    'vuetify'
+  ]
 }
